@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Syed Ibrahim
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Web App Development
+- 📫 How to reach me syedgibrahim@gmail.com
 
 <!---
 SyedGMIbrahim/SyedGMIbrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
