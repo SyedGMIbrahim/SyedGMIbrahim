@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed Ibrahim
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web App Development
 - 📫 How to reach me syedgibrahim@gmail.com
 
