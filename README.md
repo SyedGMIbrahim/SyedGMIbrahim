@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed GM Ibrahim
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on Web App Development
 - 📫 How to reach me syedgibrahim@gmail.com
 
