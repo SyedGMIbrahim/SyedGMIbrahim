@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Syed+GM+Ibrahim;Full-Stack+Web+Developer;Building+Secure+Web+Apps;Working+with+React+%26+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Syed+Ibrahim;Full-Stack+Web+Developer;Building+Secure+Web+Apps;Open+to+Collaborate+%26+Work" alt="Typing SVG" />
 
 <p align="center">
-  <b>Computer Science Undergraduate | Full-Stack | AI-Driven Apps</b>
+  <b>Full-Stack Web Developer | AI-Driven Apps | Open to Collaborate & Work</b>
 </p>
 
 <!-- Social Links / Badges -->
@@ -27,10 +27,10 @@
 ---
 
 ### 💼 Experience & Portfolio Highlights
-* 💻 **Experience:** Web Developer & Editor for ADGVIT[cite: 1] and former Frontend Developer Intern at Aarvasa, where I built responsive React.js and Tailwind CSS interfaces[cite: 1].
-* 🚀 **BuildBuddy:** Developed an AI project scaffolding platform generating complete application structures from natural language using Next.js, TypeScript, PostgreSQL, and Prisma[cite: 1].
-* 💳 **Digital Transaction Platform:** Built a secure transaction management system with the MERN stack, Zod, and JWT authentication[cite: 1].
-* 🎬 **Cineflix:** Created a movie streaming web application utilizing React, Vite, Appwrite, and the TMDB API[cite: 1].
+* 💻 **Experience:** Web Developer & Editor for ADGVIT and former Frontend Developer Intern at Aarvasa, where I built responsive React.js and Tailwind CSS interfaces.
+* 🚀 **BuildBuddy:** Developed an AI project scaffolding platform generating complete application structures from natural language using Next.js, TypeScript, PostgreSQL, and Prisma.
+* 💳 **Digital Transaction Platform:** Built a secure transaction management system with the MERN stack, Zod, and JWT authentication.
+* 🎬 **Cineflix:** Created a movie streaming web application utilizing React, Vite, Appwrite, and the TMDB API.
 
 ---
 
@@ -49,27 +49,6 @@
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,appwrite,git,postman,aws,netlify" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-  <!-- Animated GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedGMIbrahim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/><br/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedGMIbrahim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  <br/><br/>
-
-  <!-- Animated Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedGMIbrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 <!-- Fun Footer -->
 <div align="center">
